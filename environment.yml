@@ -6,14 +6,6 @@ channels:
 dependencies:
   - python=3.11.5
   - numpy
-  - SeqIO
-  - Phylo
-  - AlignIO
-  - Align
-  - NCBIWWW
-  - NCBIXML
-  - ClustalOmegaCommandline
-  - DistanceCalculator
-  - DistanceTreeConstructor
+  - biopython
   - pandas
   - time
