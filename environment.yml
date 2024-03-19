@@ -1,0 +1,10 @@
+name: python 2.7
+dependencies:
+  - python=2.7
+  - numpy
+  - Bio
+  - Bio.Blast
+  - Bio.Align.Applications
+  - Bio.Phylo.TreeConstruction
+  - pandas
+  - time
