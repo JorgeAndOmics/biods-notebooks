@@ -2,9 +2,14 @@ name: python 3.11.5
 dependencies:
   - python=3.11.5
   - numpy
-  - Bio
-  - Bio.Blast
-  - Bio.Align.Applications
-  - Bio.Phylo.TreeConstruction
+  - SeqIO
+  - Phylo
+  - AlignIO
+  - Align
+  - NCBIWWW
+  - NCBIXML
+  - ClustalOmegaCommandline
+  - DistanceCalculator
+  - DistanceTreeConstructor
   - pandas
   - time
